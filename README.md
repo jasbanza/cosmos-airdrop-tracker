@@ -18,4 +18,4 @@ TODO:
 #### 🤔 FAQS:
    * [ ] sections?
    * [ ] copy writing of Q's and A's
-   * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/faq.json)
+   * [ ] endpoint (.json file for now?) [faq.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/faq.json)
