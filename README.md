@@ -1,5 +1,7 @@
 # cosmos-airdrop-tracker
-Cosmos Airdrop Tracker
+Cosmos Airdrop Tracker - Cosmos ecosystem airdrop news & notifications, airdrop info + links & general FAQs
+
+TODO:
 
 - [ ] popup UI
 
@@ -14,6 +16,6 @@ Cosmos Airdrop Tracker
    * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/airdrops.json)
 
 #### 🤔 FAQS:
-   * [ ] sections
+   * [ ] sections?
    * [ ] copy writing of Q's and A's
-    * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/faq.json)
+   * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/faq.json)
