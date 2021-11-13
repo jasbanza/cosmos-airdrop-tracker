@@ -1,0 +1,31 @@
+{
+  "name": "Cosmos Airdrop Tracker",
+  "version": "0.1.0",
+  "description": "Cosmos ecosystem airdrop news & notifications, airdrop info + links & general FAQs",
+  "manifest_version": 3,
+  "options_page": "options.html",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Cosmos Airdrop Tracker\n\nInitializing... \n\nClick here for the latest airdrop news!\n\n",
+    "default_icon": {
+      "16": "/images/icons/icon16.png",
+      "32": "/images/icons/icon32.png",
+      "48": "/images/icons/icon48.png",
+      "64": "/images/icons/icon64.png",
+      "96": "/images/icons/icon96.png",
+      "128": "/images/icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/icons/icon16.png",
+    "32": "/images/icons/icon32.png",
+    "48": "/images/icons/icon48.png",
+    "64": "/images/icons/icon64.png",
+    "96": "/images/icons/icon96.png",
+    "128": "/images/icons/icon128.png"
+  },
+  "permissions": [
+    "storage",
+    "alarms"
+  ]
+}
