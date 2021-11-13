@@ -13,7 +13,7 @@ TODO:
    * [ ] endpoint (.json file for now?) [news.json](https://github.com/jasbanza/cosmos-airdrop-tracker/blob/main/endpoints/news.json)
 
 #### 🪂 AIRDROP INFO:
-   * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/blob/endpoints/airdrops.json)
+   * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/blob/main/endpoints/airdrops.json)
 
 #### 🤔 FAQS:
    * [ ] sections?
