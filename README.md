@@ -10,12 +10,12 @@ TODO:
 ## Popup's Tabs:
 
 ### 📰 NEWS / NOTIFICATIONS
-   * [ ] endpoint (.json file for now?) [news.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/news.json)
+   * [ ] endpoint (.json file for now?) [news.json](https://github.com/jasbanza/cosmos-airdrop-tracker/blob/main/endpoints/news.json)
 
 #### 🪂 AIRDROP INFO:
-   * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/airdrops.json)
+   * [ ] endpoint (.json file for now?) [airdrops.json](https://github.com/jasbanza/cosmos-airdrop-tracker/blob/endpoints/airdrops.json)
 
 #### 🤔 FAQS:
    * [ ] sections?
    * [ ] copy writing of Q's and A's
-   * [ ] endpoint (.json file for now?) [faq.json](https://github.com/jasbanza/cosmos-airdrop-tracker/endpoints/faq.json)
+   * [ ] endpoint (.json file for now?) [faq.json](https://github.com/jasbanza/cosmos-airdrop-tracker/blob/main/endpoints/faq.json)
